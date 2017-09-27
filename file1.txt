@@ -1,3 +1,4 @@
 12
 change on feature/feature1 branch
 second change on feature/feature1 branch
+conflict merge
